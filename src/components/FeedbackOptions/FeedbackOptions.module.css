@@ -1,0 +1,14 @@
+.feedbackOptions {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+}
+
+.feedbackButton {
+  background-color: blue;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  padding: 8px;
+  border-radius: 5px;
+}
